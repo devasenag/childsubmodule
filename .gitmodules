@@ -1,0 +1,14 @@
+[submodule "external1"]
+	path = external1
+	url = https://github.com/devasenag/Parent.git
+[submodule "external2"]
+	path = external2
+	url = https://github.com/devasenag/Parent.git
+	branch = master
+[submodule "ExternalsDevExpress"]
+	path = ExternalsDevExpress
+	url = https://github.com/devasenag/Parent.git
+[submodule "External4"]
+	path = External4
+	url = https://github.com/devasenag/Parent.git
+	branch = master
