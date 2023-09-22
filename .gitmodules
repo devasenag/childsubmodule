@@ -12,3 +12,11 @@
 	path = External4
 	url = https://github.com/devasenag/Parent.git
 	branch = master
+[submodule "ParentExternal/External5"]
+	path = ParentExternal/External5
+	url = https://github.com/devasenag/Parent.git
+	branch = master
+[submodule "ExternalsMainFromParent"]
+	path = ExternalsMainFromParent
+	url = https://github.com/devasenag/ParentModule.git
+	branch = DevExpress
